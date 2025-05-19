@@ -1,4 +1,4 @@
-# CustomGPTs
+# CustomGPTs & AI Agents
 Examples of CustomGPTs I have created for previous clients.  
 
 1)Content writer for blog posts for Family law attorney.  
