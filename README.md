@@ -1,6 +1,45 @@
-# CustomGPTs & AI Agents
-Examples of CustomGPTs I have created for previous clients.  
+# 🤖 CustomGPTs & AI Agents  
+### Real-World Examples of GPT-Powered Automation & Task-Specific Assistants
 
-1)Content writer for blog posts for Family law attorney.  
-2)Legal draft writer (motions, summaries, orders,etc) for family law attorney.  
-3)Automated bookkeeper for coffee shop- pulls in all Square transaction data and expenses from credit card to generated google sheet, uses it to track P&L and create monthly & quarterly statements & provides answers to relavant questions for the shop owner to make data driven menu & schedule decisions such as "What was my least profitable drink last month? On average over the past 90 days, what days of the week (or time of day) bring in the lowest revenue? What percent of my customers made a purchase at least 4 times per month in the past 3 months?" 
+This collection showcases examples of **CustomGPTs and AI Agents** I’ve designed and implemented for clients across various industries. These tools were built to streamline workflows, enhance decision-making, and save time by automating complex or repetitive tasks through tailored large language model (LLM) behavior.
+
+---
+
+## 🔧 Projects & Use Cases
+
+### 1. ✍️ Content Writer for Blog Posts (Family Law Attorney)
+A custom GPT fine-tuned and prompt-engineered to:
+- Draft engaging and SEO-friendly blog content
+- Adhere to tone, professionalism, and jurisdictional accuracy
+- Produce outlines, headers, and full articles based on client themes or headlines
+
+---
+
+### 2. 📄 Legal Draft Generator (Family Law Attorney)
+Developed a legal-focused CustomGPT to generate:
+- Motions, case summaries, and judicial orders
+- Well-structured drafts aligned with local court expectations
+- Templates for faster client onboarding and filings
+
+> This tool significantly reduces the attorney's manual drafting time, enabling a higher client throughput with improved document consistency.
+
+---
+
+### 3. 📊 Automated Bookkeeper (Coffee Shop)
+An AI agent designed for a local café owner to:
+- Integrate with Square and credit card platforms to pull daily transaction and expense data
+- Populate a dynamic Google Sheet that tracks:
+  - Profit & Loss (P&L)
+  - Monthly and quarterly performance reports
+- Answer natural language business queries such as:
+  - _“What was my least profitable drink last month?”_
+  - _“Over the past 90 days, what time of day sees the lowest revenue?”_
+  - _“What percentage of customers visited 4+ times each month over the last quarter?”_
+
+> This empowered the business owner to make strategic, data-driven decisions about menu pricing, staffing, and promotions.
+
+---
+
+## 💡 Summary
+
+Each of these agents was built with real users in mind, optimized through prompt iteration, fine-tuned output behavior, and real-world integration (via APIs, Google Sheets, and webhooks). These examples demonstrate my ability to merge **AI + automation + business logic** into functional solutions that deliver measurable results.
